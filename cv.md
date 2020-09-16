@@ -1,6 +1,6 @@
 #**Natalia Mikhina**  
 
-##*Contacts*:  
+##**Contacts**:  
 
 +79119757801
 natusiastic@gmail.com  
