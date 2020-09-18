@@ -2,8 +2,7 @@
 
 ##**Contacts**:  
 
-+79119757801
-natusiastic@gmail.com  
+nataliamikhina1@rambler.ru  
 
 ##*Aim*: to obtain a position of Frontend developer.
 I am a fast learner, hard-working and passionate in my professional activities.  
