@@ -1,0 +1,30 @@
+body{
+    font-family: 'Kumbh Sans', 'Geometric Sans Serif';
+}
+.my-cv{
+    background: #bce5eb;
+    float: left;
+    width: 800px;
+
+}
+
+.photo{
+    align-content: center;
+    width: 93%;
+}
+
+.block-left{
+    background: #98FB98;
+    float: left;
+        width: 250px;
+        color: #006400;
+        padding: 25px;
+}
+
+    
+.block-right{
+    background: #00FF7F;
+    float: right;
+    padding: 25px;
+    width: 450px;
+}
